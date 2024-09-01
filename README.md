@@ -27,6 +27,5 @@ This project is a front-end clone of the Amazon website interface, developed usi
 - Gained hands-on experience in front-end development by working with HTML and CSS.
 - Improved understanding of web design principles, responsive design, and cross-browser compatibility.
 
----
 
-Let me know if you’d like any adjustments or additional details for the description!
+Let me know if you’d like any adjustments or additional details for the description.....
